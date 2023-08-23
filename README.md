@@ -1,5 +1,5 @@
 
-<html>
+
 <link rel="stylesheet" type="text/css" href="bruh.css">
 <script src="bruh.js"></script>
   <head>
@@ -62,8 +62,8 @@ Click me to display Date and Time.</button>
 <p style="color: turquoise;" id="sap">Status : Not submitted.</p>
 
     <p style="color: red;">&copy Howtocode.Made by Arnav T.</p>
-   </footer>    </body>
-</html>
+   </footer>    
+
 
   
   
