@@ -61,8 +61,8 @@ Click me to display Date and Time.</button>
 <button style="color: turquoise;" type="button" onclick='document.getElementById("sap").innerHTML = "Status : Sucessfully submited"'>submit</button>
 <p style="color: turquoise;" id="sap">Status : Not submitted.</p>
 
-    <p style="color: red;">&copy Howtocode.Made by Arnav T.</p>
-   </footer>    
+    <p style="color: red;">© Howtocode.Made by Arnav T.</p>
+   </footer>
 
 
   
