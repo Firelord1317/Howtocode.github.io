@@ -7,7 +7,7 @@
       alert("Welcome!");
     </script>
   </head>
-  <body>
+  <body bgcolor="teal">
     <h1 style="color: turquoise;"><marquee>WELCOME TO MY WEBSITE</marquee></h1>
     <h3 style="color: lightskyblue;">Here you will learn and have fun!.So grab your stationery and let's get to it.</h3>
      <h2 style="color: red;"><u><b>Html</b></u></h2>
@@ -59,12 +59,5 @@ Click me to display Date and Time.</button>
 <button style="color: turquoise;" type="button" onclick='document.getElementById("sap").innerHTML = "Status : Sucessfully submited"'>submit</button>
 <p style="color: turquoise;" id="sap">Status : Not submitted.</p>
 
-    <p style="color: red;"> ©Howtocode.Made by Arnav T.</p>
+   <p style="color: red;">&copy Arnav T.All rights reseved.</p>
    </footer>
-
-
-  
-  
-  
-  
-
